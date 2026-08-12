@@ -1,4 +1,4 @@
-# Peanultdashboard_US_BR
+# Climate Risk Zoning Dashboard for the Peanut Leaf Spot Complex in Brazil and the United States
 Interactive Shiny dashboard for climate risk zoning of the peanut leaf spot complex in the five leading peanut-producing states of Brazil and the United States.
 
 This repository contains an interactive R Shiny dashboard and geospatial datasets developed for climate risk zoning of the peanut leaf spot complex in selected peanut-producing regions of Brazil and the United States. The project integrates climatic information, administrative boundaries, and raster-based zoning outputs to support the spatial and temporal assessment of environmental conditions associated with disease risk.
