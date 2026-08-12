@@ -6,11 +6,11 @@ Institutional logos
 
 The following institutional and research group logos are used in the dashboard interface:
 
-Bastos_Lab.png — Bastos Laboratory, University of Georgia
-LAMMA.png — Laboratory of Agricultural Machinery and Mechanization
-RSRG.png — Research Support and Resources Group
-UGA.png — University of Georgia
-Unesp Jaboticabal.jpg — São Paulo State University, School of Agricultural and Veterinarian Sciences, Jaboticabal campus
-cbioclima.jpg — CBIClima research center
+*Bastos_Lab.png — Bastos Laboratory, University of Georgia
+*LAMMA.png — Laboratory of Agricultural Machinery and Mechanization
+*RSRG.png — Research Support and Resources Group
+*UGA.png — University of Georgia
+*Unesp Jaboticabal.jpg — São Paulo State University, School of Agricultural and Veterinarian Sciences, Jaboticabal campus
+*cbioclima.jpg — CBIClima research center
 
 These images are displayed exclusively for institutional identification, acknowledgment, and scientific communication within the dashboard.
