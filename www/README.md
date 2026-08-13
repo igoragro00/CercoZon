@@ -1,10 +1,18 @@
 # Static Assets
 
-This directory contains the static visual assets used by the R Shiny dashboard for climate risk zoning of the peanut leaf spot complex in selected peanut-producing states of Brazil and the United States.
+This directory contains the static visual assets used by **CercoZon**, an R Shiny web application for climate risk zoning of the peanut leaf spot complex in selected peanut-producing states of Brazil and the United States.
 
-## Institutional Logos
+## Application Logo
 
-The following institutional and research group logos are used in the dashboard interface:
+| Logo | File | Description |
+|------|------|-------------|
+| <img src="CercoZon.png" width="180"> | `CercoZon.png` | Official logo of CercoZon – Climate Risk Zoning of the Peanut Leaf Spot Complex |
+
+The CercoZon logo integrates three main elements of the application: peanut leaf spot symptoms, climate risk classes, and the geographical scope of the study in Brazil and the United States.
+
+## Institutional and Research Group Logos
+
+The following institutional and research group logos are displayed in the dashboard interface:
 
 | Logo | File | Description |
 |------|------|-------------|
@@ -17,6 +25,8 @@ The following institutional and research group logos are used in the dashboard i
 
 ## Usage and Licensing
 
-These images are the property of their respective institutions and research groups. They are displayed here **exclusively for institutional identification, acknowledgment, and scientific communication** within the dashboard.
+The institutional and research group logos are the property of their respective organizations. They are displayed exclusively for institutional identification, acknowledgment, and scientific communication within the CercoZon dashboard.
 
-Reuse, reproduction, or redistribution of these logos outside the scope of this project requires prior authorization from the respective institutions.
+Reuse, reproduction, or redistribution of these logos outside the scope of this project requires prior authorization from the respective institutions or research groups.
+
+The `CercoZon.png` file represents the visual identity developed specifically for the CercoZon web application. Its reuse or modification should acknowledge the project and its developers.
