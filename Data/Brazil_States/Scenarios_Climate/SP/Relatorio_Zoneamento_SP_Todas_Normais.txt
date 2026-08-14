@@ -1,0 +1,34 @@
+====================================================
+ ZONEAMENTO CLIMÁTICO – CERCOSPORIOSE (AMENDOIM)
+ Estado: São Paulo (SP)
+ Janela: Setembro–Abril
+ Classes finais: 1=Alta | 2=Moderada | 3=Baixa
+ ====================================================
+
+Normal: 2011_2040 | Cenário: SSP126 
+ % Alta: 79.28 | % Moderada: 18.96 | % Baixa: 1.76 
+
+Normal: 2011_2040 | Cenário: SSP370 
+ % Alta: 80.37 | % Moderada: 18.02 | % Baixa: 1.62 
+
+Normal: 2011_2040 | Cenário: SSP585 
+ % Alta: 80.07 | % Moderada: 18.35 | % Baixa: 1.58 
+
+Normal: 2041_2070 | Cenário: SSP126 
+ % Alta: 80.32 | % Moderada: 18.76 | % Baixa: 0.93 
+
+Normal: 2041_2070 | Cenário: SSP370 
+ % Alta: 74.27 | % Moderada: 25.08 | % Baixa: 0.65 
+
+Normal: 2041_2070 | Cenário: SSP585 
+ % Alta: 62.75 | % Moderada: 36.73 | % Baixa: 0.52 
+
+Normal: 2071_2100 | Cenário: SSP126 
+ % Alta: 79.08 | % Moderada: 19.91 | % Baixa: 1.01 
+
+Normal: 2071_2100 | Cenário: SSP370 
+ % Alta: 39.82 | % Moderada: 55.08 | % Baixa: 5.1 
+
+Normal: 2071_2100 | Cenário: SSP585 
+ % Alta: 29.33 | % Moderada: 43.22 | % Baixa: 27.44 
+
