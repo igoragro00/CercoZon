@@ -1,13 +1,14 @@
-# US_States
+# Brazil_States
 
-This folder contains GeoJSON boundary files for counties in major peanut-producing states of the United States, used to power the interactive maps in the Peanut Dashboard (US/BR).
+This folder contains simplified GeoJSON boundary files for major peanut-producing Brazilian states, used to power the interactive maps in the Peanut Dashboard (US/BR).
 
 ## Files
 
-- `Condados_do_Alabama.geojson` — Alabama county boundaries
-- `Condados_da_Florida.geojson` — Florida county boundaries
-- `Georgia_Counties.geojson` — Georgia county boundaries
-- `Condados_da_Carolina_do_Norte.geojson` — North Carolina county boundaries
-- `Condados_do_Texas.geojson` — Texas county boundaries
+- `shiny_map_mato_grosso_simplified.geojson` — Mato Grosso state boundaries
+- `shiny_map_mato_grosso_do_sul_simplified.geojson` — Mato Grosso do Sul state boundaries
+- `shiny_map_minas_gerais_simplified.geojson` — Minas Gerais state boundaries
+- `shiny_map_parana_simplified.geojson` — Paraná state boundaries
+- `shiny_map_sao_paulo_simplified.geojson` — São Paulo state boundaries
 
-Each file contains county-level spatial boundaries used by the Shiny dashboard to render state-specific maps for climate risk zoning analysis.
+Each file has been simplified (reduced geometry complexity) to improve loading performance in the Shiny dashboard while preserving state-level spatial accuracy.
+
