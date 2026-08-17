@@ -1,0 +1,33 @@
+====================================================
+ CLIMATE ZONING – LEAF SPOT (PEANUT)
+ State: Paraná (PR)
+ Window: September–April
+ Final Classes: 1=High | 2=Moderate | 3=Low
+ ====================================================
+
+Normal: 2011_2040 | Scenario: SSP126 
+ % High: 50.1 | % Moderate: 36.96 | % Low: 12.94 
+
+Normal: 2011_2040 | Scenario: SSP370 
+ % High: 49.29 | % Moderate: 38.31 | % Low: 12.39 
+
+Normal: 2011_2040 | Scenario: SSP585 
+ % High: 51.75 | % Moderate: 36.48 | % Low: 11.77 
+
+Normal: 2041_2070 | Scenario: SSP126 
+ % High: 46.34 | % Moderate: 47.24 | % Low: 6.42 
+
+Normal: 2041_2070 | Scenario: SSP370 
+ % High: 55.56 | % Moderate: 41.95 | % Low: 2.5 
+
+Normal: 2041_2070 | Scenario: SSP585 
+ % High: 58.44 | % Moderate: 40.36 | % Low: 1.2 
+
+Normal: 2071_2100 | Scenario: SSP126 
+ % High: 48.33 | % Moderate: 44.68 | % Low: 6.99 
+
+Normal: 2071_2100 | Scenario: SSP370 
+ % High: 44.4 | % Moderate: 55.51 | % Low: 0.09 
+
+Normal: 2071_2100 | Scenario: SSP585 
+ % High: 35.69 | % Moderate: 60.68 | % Low: 3.63 

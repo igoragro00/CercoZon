@@ -1,0 +1,33 @@
+====================================================
+ CLIMATE ZONING – LEAF SPOT (PEANUT)
+ State: Minas Gerais (MG)
+ Window: September–April
+ Final Classes: 1=High | 2=Moderate | 3=Low
+ ====================================================
+
+Normal: 2011_2040 | Scenario: SSP126 
+ % High: 80 | % Moderate: 18.56 | % Low: 1.43 
+
+Normal: 2011_2040 | Scenario: SSP370 
+ % High: 82.49 | % Moderate: 16.23 | % Low: 1.28 
+
+Normal: 2011_2040 | Scenario: SSP585 
+ % High: 82.6 | % Moderate: 16.1 | % Low: 1.31 
+
+Normal: 2041_2070 | Scenario: SSP126 
+ % High: 81.98 | % Moderate: 17.15 | % Low: 0.86 
+
+Normal: 2041_2070 | Scenario: SSP370 
+ % High: 73.66 | % Moderate: 25.8 | % Low: 0.54 
+
+Normal: 2041_2070 | Scenario: SSP585 
+ % High: 65.2 | % Moderate: 34.4 | % Low: 0.4 
+
+Normal: 2071_2100 | Scenario: SSP126 
+ % High: 75.15 | % Moderate: 23.92 | % Low: 0.93 
+
+Normal: 2071_2100 | Scenario: SSP370 
+ % High: 42.85 | % Moderate: 51.57 | % Low: 5.59 
+
+Normal: 2071_2100 | Scenario: SSP585 
+ % High: 28.88 | % Moderate: 52.47 | % Low: 18.65 

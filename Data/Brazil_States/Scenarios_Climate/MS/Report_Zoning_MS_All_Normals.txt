@@ -1,0 +1,33 @@
+====================================================
+ CLIMATE ZONING – LEAF SPOT (PEANUT)
+ State: Mato Grosso do Sul (MS)
+ Window: September–April
+ Final Classes: 1=High | 2=Moderate | 3=Low
+ ====================================================
+
+Normal: 2011_2040 | Scenario: SSP126 
+ % High: 70.86 | % Moderate: 29.14 | % Low: 0 
+
+Normal: 2011_2040 | Scenario: SSP370 
+ % High: 70.19 | % Moderate: 29.81 | % Low: 0 
+
+Normal: 2011_2040 | Scenario: SSP585 
+ % High: 69.18 | % Moderate: 30.82 | % Low: 0 
+
+Normal: 2041_2070 | Scenario: SSP126 
+ % High: 61.11 | % Moderate: 38.89 | % Low: 0 
+
+Normal: 2041_2070 | Scenario: SSP370 
+ % High: 34.89 | % Moderate: 53.29 | % Low: 11.83 
+
+Normal: 2041_2070 | Scenario: SSP585 
+ % High: 20.08 | % Moderate: 55.81 | % Low: 24.11 
+
+Normal: 2071_2100 | Scenario: SSP126 
+ % High: 62.35 | % Moderate: 37.65 | % Low: 0 
+
+Normal: 2071_2100 | Scenario: SSP370 
+ % High: 2.09 | % Moderate: 48.93 | % Low: 48.98 
+
+Normal: 2071_2100 | Scenario: SSP585 
+ % High: 0 | % Moderate: 15.95 | % Low: 84.05 

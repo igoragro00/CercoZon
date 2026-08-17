@@ -1,0 +1,34 @@
+====================================================
+ CLIMATE ZONING - CERCOSPORA LEAF SPOT (PEANUT)
+ State: Alabama (AL)
+ Window: March-October (AL planting-harvest cycle)
+ Final classes: 1=High | 2=Moderate | 3=Low
+ ====================================================
+
+Normal: 2011_2040 | Scenario: SSP126 
+ % High: 78.39 | % Moderate: 21.17 | % Low: 0.44 
+
+Normal: 2011_2040 | Scenario: SSP370 
+ % High: 81.82 | % Moderate: 17.89 | % Low: 0.29 
+
+Normal: 2011_2040 | Scenario: SSP585 
+ % High: 82.3 | % Moderate: 17.42 | % Low: 0.29 
+
+Normal: 2041_2070 | Scenario: SSP126 
+ % High: 92.69 | % Moderate: 7.3 | % Low: 0.01 
+
+Normal: 2041_2070 | Scenario: SSP370 
+ % High: 98.85 | % Moderate: 1.15 | % Low: 0 
+
+Normal: 2041_2070 | Scenario: SSP585 
+ % High: 99.36 | % Moderate: 0.64 | % Low: 0 
+
+Normal: 2071_2100 | Scenario: SSP126 
+ % High: 93.17 | % Moderate: 6.83 | % Low: 0 
+
+Normal: 2071_2100 | Scenario: SSP370 
+ % High: 99.92 | % Moderate: 0.08 | % Low: 0 
+
+Normal: 2071_2100 | Scenario: SSP585 
+ % High: 99.4 | % Moderate: 0.6 | % Low: 0 
+
