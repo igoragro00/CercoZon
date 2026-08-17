@@ -1,0 +1,33 @@
+====================================================
+ CLIMATE ZONING – LEAF SPOT (PEANUT)
+ State: São Paulo (SP)
+ Window: September–April
+ Final Classes: 1=High | 2=Moderate | 3=Low
+ ====================================================
+
+Normal: 2011_2040 | Scenario: SSP126 
+ % High: 79.28 | % Moderate: 18.96 | % Low: 1.76 
+
+Normal: 2011_2040 | Scenario: SSP370 
+ % High: 80.37 | % Moderate: 18.02 | % Low: 1.62 
+
+Normal: 2011_2040 | Scenario: SSP585 
+ % High: 80.07 | % Moderate: 18.35 | % Low: 1.58 
+
+Normal: 2041_2070 | Scenario: SSP126 
+ % High: 80.32 | % Moderate: 18.76 | % Low: 0.93 
+
+Normal: 2041_2070 | Scenario: SSP370 
+ % High: 74.27 | % Moderate: 25.08 | % Low: 0.65 
+
+Normal: 2041_2070 | Scenario: SSP585 
+ % High: 62.75 | % Moderate: 36.73 | % Low: 0.52 
+
+Normal: 2071_2100 | Scenario: SSP126 
+ % High: 79.08 | % Moderate: 19.91 | % Low: 1.01 
+
+Normal: 2071_2100 | Scenario: SSP370 
+ % High: 39.82 | % Moderate: 55.08 | % Low: 5.1 
+
+Normal: 2071_2100 | Scenario: SSP585 
+ % High: 29.33 | % Moderate: 43.22 | % Low: 27.44 
