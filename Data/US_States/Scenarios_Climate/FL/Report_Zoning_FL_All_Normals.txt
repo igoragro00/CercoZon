@@ -1,0 +1,39 @@
+====================================================
+ CLIMATE ZONING - PEANUT CERCOSPORA LEAF SPOT COMPLEX
+ State: Florida (FL)
+ Window: March-November (FL planting-harvest cycle)
+ Criteria: mean air temperature over the window + water threshold P* = 58.1 mm/month
+ Mask: USDA Cropland Data Layer 2025 (agricultural area = 3.63% of the state; 5,571.51 km2)
+ Values: % of the agricultural area in each class (classes sum to 100%)
+ Final classes: 1=Highly favorable | 2=Favorable | 3=Unfavorable
+====================================================
+
+Normal: 1981_2010 | Scenario: Baseline
+ % Highly favorable: 86.72 | % Favorable: 13.28 | % Unfavorable: 0.00
+
+Normal: 2011_2040 | Scenario: SSP126
+ % Highly favorable: 100.00 | % Favorable: 0.00 | % Unfavorable: 0.00
+
+Normal: 2011_2040 | Scenario: SSP370
+ % Highly favorable: 100.00 | % Favorable: 0.00 | % Unfavorable: 0.00
+
+Normal: 2011_2040 | Scenario: SSP585
+ % Highly favorable: 100.00 | % Favorable: 0.00 | % Unfavorable: 0.00
+
+Normal: 2041_2070 | Scenario: SSP126
+ % Highly favorable: 100.00 | % Favorable: 0.00 | % Unfavorable: 0.00
+
+Normal: 2041_2070 | Scenario: SSP370
+ % Highly favorable: 100.00 | % Favorable: 0.00 | % Unfavorable: 0.00
+
+Normal: 2041_2070 | Scenario: SSP585
+ % Highly favorable: 100.00 | % Favorable: 0.00 | % Unfavorable: 0.00
+
+Normal: 2071_2100 | Scenario: SSP126
+ % Highly favorable: 100.00 | % Favorable: 0.00 | % Unfavorable: 0.00
+
+Normal: 2071_2100 | Scenario: SSP370
+ % Highly favorable: 54.19 | % Favorable: 45.81 | % Unfavorable: 0.00
+
+Normal: 2071_2100 | Scenario: SSP585
+ % Highly favorable: 39.86 | % Favorable: 60.14 | % Unfavorable: 0.00
