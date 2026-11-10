@@ -1,0 +1,39 @@
+====================================================
+ CLIMATE ZONING - PEANUT CERCOSPORA LEAF SPOT COMPLEX
+ State: Alabama (AL)
+ Window: March-October (AL planting-harvest cycle)
+ Criteria: mean air temperature over the window + water threshold P* = 58.1 mm/month
+ Mask: Cropland Data Layer 2025 (agricultural area = 4.69% of the state; 6,320.66 km2)
+ Values: % of the agricultural area in each class (classes sum to 100%)
+ Final classes: 1=Highly favorable | 2=Favorable | 3=Unfavorable
+====================================================
+
+Normal: 1981_2010 | Scenario: Baseline
+ % Highly favorable: 50.19 | % Favorable: 44.69 | % Unfavorable: 5.13
+
+Normal: 2011_2040 | Scenario: SSP126
+ % Highly favorable: 73.69 | % Favorable: 26.11 | % Unfavorable: 0.20
+
+Normal: 2011_2040 | Scenario: SSP370
+ % Highly favorable: 79.17 | % Favorable: 20.75 | % Unfavorable: 0.08
+
+Normal: 2011_2040 | Scenario: SSP585
+ % Highly favorable: 79.94 | % Favorable: 19.97 | % Unfavorable: 0.08
+
+Normal: 2041_2070 | Scenario: SSP126
+ % Highly favorable: 90.91 | % Favorable: 9.09 | % Unfavorable: 0.00
+
+Normal: 2041_2070 | Scenario: SSP370
+ % Highly favorable: 99.31 | % Favorable: 0.69 | % Unfavorable: 0.00
+
+Normal: 2041_2070 | Scenario: SSP585
+ % Highly favorable: 99.68 | % Favorable: 0.32 | % Unfavorable: 0.00
+
+Normal: 2071_2100 | Scenario: SSP126
+ % Highly favorable: 91.74 | % Favorable: 8.26 | % Unfavorable: 0.00
+
+Normal: 2071_2100 | Scenario: SSP370
+ % Highly favorable: 100.00 | % Favorable: 0.00 | % Unfavorable: 0.00
+
+Normal: 2071_2100 | Scenario: SSP585
+ % Highly favorable: 99.98 | % Favorable: 0.02 | % Unfavorable: 0.00
