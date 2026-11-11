@@ -12,9 +12,11 @@ Climate favorability zoning for the peanut Cercospora leaf spot complex in Mato 
 
 | Value | Class |
 |---|---|
-| 1 | Highly favorable |
+| 3 | Highly favorable |
 | 2 | Favorable |
-| 3 | Unfavorable |
+| 1 | Unfavorable |
+
+The rasters cover the whole state (they are not clipped to the agricultural mask); the percentages in the report and in the summary below refer to the agricultural area only.
 
 ## Files
 
