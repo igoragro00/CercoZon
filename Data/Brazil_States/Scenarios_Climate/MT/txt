@@ -1,1 +1,39 @@
+====================================================
+ CLIMATE ZONING - PEANUT CERCOSPORA LEAF SPOT COMPLEX
+ State: Minas Gerais (MG)
+ Window: September-April (MG planting-harvest cycle)
+ Criteria: mean air temperature over the window + water threshold P* = 46.1 mm/month
+ Mask: MapBiomas (agricultural area = 60.41% of the state; 356,272.10 km2)
+ Values: % of the agricultural area in each class (classes sum to 100%)
+ Final classes: 1=Highly favorable | 2=Favorable | 3=Unfavorable
+====================================================
 
+Normal: 1981_2010 | Scenario: Baseline
+ % Highly favorable: 78.97 | % Favorable: 18.08 | % Unfavorable: 2.95
+
+Normal: 2011_2040 | Scenario: SSP126
+ % Highly favorable: 91.01 | % Favorable: 7.96 | % Unfavorable: 1.03
+
+Normal: 2011_2040 | Scenario: SSP370
+ % Highly favorable: 92.10 | % Favorable: 7.00 | % Unfavorable: 0.90
+
+Normal: 2011_2040 | Scenario: SSP585
+ % Highly favorable: 91.92 | % Favorable: 7.16 | % Unfavorable: 0.92
+
+Normal: 2041_2070 | Scenario: SSP126
+ % Highly favorable: 93.83 | % Favorable: 5.63 | % Unfavorable: 0.54
+
+Normal: 2041_2070 | Scenario: SSP370
+ % Highly favorable: 88.20 | % Favorable: 11.51 | % Unfavorable: 0.29
+
+Normal: 2041_2070 | Scenario: SSP585
+ % Highly favorable: 79.90 | % Favorable: 19.91 | % Unfavorable: 0.19
+
+Normal: 2071_2100 | Scenario: SSP126
+ % Highly favorable: 94.00 | % Favorable: 5.39 | % Unfavorable: 0.60
+
+Normal: 2071_2100 | Scenario: SSP370
+ % Highly favorable: 60.59 | % Favorable: 34.45 | % Unfavorable: 4.96
+
+Normal: 2071_2100 | Scenario: SSP585
+ % Highly favorable: 43.61 | % Favorable: 37.17 | % Unfavorable: 19.22
