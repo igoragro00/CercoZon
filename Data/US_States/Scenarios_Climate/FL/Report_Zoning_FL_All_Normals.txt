@@ -5,7 +5,7 @@
  Criteria: mean air temperature over the window + water threshold P* = 58.1 mm/month
  Mask: USDA Cropland Data Layer 2025 (agricultural area = 3.63% of the state; 5,571.51 km2)
  Values: % of the agricultural area in each class (classes sum to 100%)
- Final classes: 1=Highly favorable | 2=Favorable | 3=Unfavorable
+ Raster values: 3=Highly favorable | 2=Favorable | 1=Unfavorable
 ====================================================
 
 Normal: 1981_2010 | Scenario: Baseline
