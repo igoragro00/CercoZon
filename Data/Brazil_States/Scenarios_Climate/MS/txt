@@ -1,1 +1,39 @@
+====================================================
+ CLIMATE ZONING - PEANUT CERCOSPORA LEAF SPOT COMPLEX
+ State: Mato Grosso do Sul (MS)
+ Window: September-April (MS planting-harvest cycle)
+ Criteria: mean air temperature over the window + water threshold P* = 46.1 mm/month
+ Mask: MapBiomas (agricultural area = 67.76% of the state; 243,371.12 km2)
+ Values: % of the agricultural area in each class (classes sum to 100%)
+ Final classes: 1=Highly favorable | 2=Favorable | 3=Unfavorable
+====================================================
 
+Normal: 1981_2010 | Scenario: Baseline
+ % Highly favorable: 100.00 | % Favorable: 0.00 | % Unfavorable: 0.00
+
+Normal: 2011_2040 | Scenario: SSP126
+ % Highly favorable: 81.93 | % Favorable: 18.07 | % Unfavorable: 0.00
+
+Normal: 2011_2040 | Scenario: SSP370
+ % Highly favorable: 81.31 | % Favorable: 18.69 | % Unfavorable: 0.00
+
+Normal: 2011_2040 | Scenario: SSP585
+ % Highly favorable: 80.61 | % Favorable: 19.39 | % Unfavorable: 0.00
+
+Normal: 2041_2070 | Scenario: SSP126
+ % Highly favorable: 73.94 | % Favorable: 26.06 | % Unfavorable: 0.00
+
+Normal: 2041_2070 | Scenario: SSP370
+ % Highly favorable: 45.85 | % Favorable: 45.22 | % Unfavorable: 8.92
+
+Normal: 2041_2070 | Scenario: SSP585
+ % Highly favorable: 27.42 | % Favorable: 53.93 | % Unfavorable: 18.65
+
+Normal: 2071_2100 | Scenario: SSP126
+ % Highly favorable: 76.46 | % Favorable: 23.54 | % Unfavorable: 0.00
+
+Normal: 2071_2100 | Scenario: SSP370
+ % Highly favorable: 4.09 | % Favorable: 53.75 | % Unfavorable: 42.15
+
+Normal: 2071_2100 | Scenario: SSP585
+ % Highly favorable: 0.00 | % Favorable: 18.74 | % Unfavorable: 81.25
