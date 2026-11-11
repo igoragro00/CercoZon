@@ -12,24 +12,26 @@ Climate favorability zoning for the peanut Cercospora leaf spot complex in Alaba
 
 | Value | Class |
 |---|---|
-| 1 | Highly favorable |
+| 3 | Highly favorable |
 | 2 | Favorable |
-| 3 | Unfavorable |
+| 1 | Unfavorable |
+
+The rasters cover the whole state (they are not clipped to the agricultural mask); the percentages in the report and in the summary below refer to the agricultural area only.
 
 ## Files
 
 | File | Normal | Scenario |
 |---|---|---|
-| `Zoning_AL_MarOct_1981_2010_Baseline.tif` | 1981–2010 | Baseline |
-| `Zoning_AL_MarOct_2011_2040_SSP126.tif` | 2011–2040 | SSP1-2.6 |
-| `Zoning_AL_MarOct_2011_2040_SSP370.tif` | 2011–2040 | SSP3-7.0 |
-| `Zoning_AL_MarOct_2011_2040_SSP585.tif` | 2011–2040 | SSP5-8.5 |
-| `Zoning_AL_MarOct_2041_2070_SSP126.tif` | 2041–2070 | SSP1-2.6 |
-| `Zoning_AL_MarOct_2041_2070_SSP370.tif` | 2041–2070 | SSP3-7.0 |
-| `Zoning_AL_MarOct_2041_2070_SSP585.tif` | 2041–2070 | SSP5-8.5 |
-| `Zoning_AL_MarOct_2071_2100_SSP126.tif` | 2071–2100 | SSP1-2.6 |
-| `Zoning_AL_MarOct_2071_2100_SSP370.tif` | 2071–2100 | SSP3-7.0 |
-| `Zoning_AL_MarOct_2071_2100_SSP585.tif` | 2071–2100 | SSP5-8.5 |
+| `AL_1981_2010.tif` | 1981–2010 | Baseline |
+| `AL_2011_2040_SSP126.tif` | 2011–2040 | SSP1-2.6 |
+| `AL_2011_2040_SSP370.tif` | 2011–2040 | SSP3-7.0 |
+| `AL_2011_2040_SSP585.tif` | 2011–2040 | SSP5-8.5 |
+| `AL_2041_2070_SSP126.tif` | 2041–2070 | SSP1-2.6 |
+| `AL_2041_2070_SSP370.tif` | 2041–2070 | SSP3-7.0 |
+| `AL_2041_2070_SSP585.tif` | 2041–2070 | SSP5-8.5 |
+| `AL_2071_2100_SSP126.tif` | 2071–2100 | SSP1-2.6 |
+| `AL_2071_2100_SSP370.tif` | 2071–2100 | SSP3-7.0 |
+| `AL_2071_2100_SSP585.tif` | 2071–2100 | SSP5-8.5 |
 | `Report_Zoning_AL_All_Normals.txt` | — | % of agricultural area per class |
 
 ## Summary (% of agricultural area)
