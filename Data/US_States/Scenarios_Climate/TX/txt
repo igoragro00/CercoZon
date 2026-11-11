@@ -1,1 +1,39 @@
+====================================================
+ CLIMATE ZONING - PEANUT CERCOSPORA LEAF SPOT COMPLEX
+ State: Texas (TX)
+ Window: April-November (TX planting-harvest cycle, sub-regions)
+ Criteria: mean air temperature over the window + water threshold P* = 58.1 mm/month
+ Mask: USDA Cropland Data Layer 2025 (agricultural area = 10.22% of the state; 70,687.23 km2)
+ Values: % of the agricultural area in each class (classes sum to 100%)
+ Final classes: 1=Highly favorable | 2=Favorable | 3=Unfavorable
+====================================================
 
+Normal: 1981_2010 | Scenario: Baseline
+ % Highly favorable: 42.77 | % Favorable: 6.40 | % Unfavorable: 50.83
+
+Normal: 2011_2040 | Scenario: SSP126
+ % Highly favorable: 46.66 | % Favorable: 10.28 | % Unfavorable: 43.07
+
+Normal: 2011_2040 | Scenario: SSP370
+ % Highly favorable: 47.70 | % Favorable: 10.06 | % Unfavorable: 42.23
+
+Normal: 2011_2040 | Scenario: SSP585
+ % Highly favorable: 47.79 | % Favorable: 10.09 | % Unfavorable: 42.12
+
+Normal: 2041_2070 | Scenario: SSP126
+ % Highly favorable: 49.33 | % Favorable: 8.39 | % Unfavorable: 42.28
+
+Normal: 2041_2070 | Scenario: SSP370
+ % Highly favorable: 46.54 | % Favorable: 4.57 | % Unfavorable: 48.89
+
+Normal: 2041_2070 | Scenario: SSP585
+ % Highly favorable: 50.39 | % Favorable: 6.02 | % Unfavorable: 43.60
+
+Normal: 2071_2100 | Scenario: SSP126
+ % Highly favorable: 48.98 | % Favorable: 11.57 | % Unfavorable: 39.45
+
+Normal: 2071_2100 | Scenario: SSP370
+ % Highly favorable: 40.38 | % Favorable: 17.80 | % Unfavorable: 41.82
+
+Normal: 2071_2100 | Scenario: SSP585
+ % Highly favorable: 21.21 | % Favorable: 32.70 | % Unfavorable: 46.10
